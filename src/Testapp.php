@@ -8,8 +8,6 @@
 
 namespace smoetje;
 
-use Google_Service_Sheets;
-
 class Testapp
 {
     public function getClient()
